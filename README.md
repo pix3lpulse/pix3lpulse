@@ -14,5 +14,4 @@
 <img width="485" height="256" alt="nitw-night-in-the-woods" src="https://github.com/user-attachments/assets/e4a69f30-da37-4188-bf9b-bb6f9ba076c4" />
 
 
-<img width="150" height="20" alt="1ba01d55_original" src="https://github.com/user-attachments/assets/40f69808-3916-4f90-a542-bf29caf167b6" />
 
